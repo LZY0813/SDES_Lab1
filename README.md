@@ -158,7 +158,6 @@ sdes-course-project/
 - [用户指南](docs/user_guide.md)
 - [开发手册及接口](docs/developer_guide.md)
 - [五关测试报告](docs/test_report.md)
-- [小组分工表](docs/team_contributions.md)
 - [提交指南](docs/submission_guide.md)
 - [暴力破解 GIF](results/recordings/brute_force.gif)
 - [碰撞统计 CSV](results/collision_statistics.csv)
