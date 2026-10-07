@@ -1,0 +1,2 @@
+source,key,plaintext,expected_ciphertext,actual_ciphertext,decrypted_plaintext,status,notes
+https://github.com/wen-yan-chen/sdes-project,1010000010,10111101,11000011,11000011,10111101,PASS,公开仓库README测试向量复现

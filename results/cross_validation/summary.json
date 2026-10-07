@@ -1,0 +1,53 @@
+{
+  "records": 262144,
+  "encryption_agreements": 262144,
+  "mismatches": 0,
+  "bidirectional_decryption_checks": 524288,
+  "ordered_ciphertext_sha256": "ed05dd58f52ca19005ada061ed0cd2ae58eb493872a7e685fbafca88e91fd4d0",
+  "python_roundtrip_errors": 0,
+  "javascript_roundtrip_errors": 0,
+  "javascript_samples": [
+    {
+      "key": 0,
+      "plain": 0,
+      "cipher": 240
+    },
+    {
+      "key": 127,
+      "plain": 255,
+      "cipher": 147
+    },
+    {
+      "key": 255,
+      "plain": 254,
+      "cipher": 180
+    },
+    {
+      "key": 383,
+      "plain": 253,
+      "cipher": 194
+    },
+    {
+      "key": 511,
+      "plain": 252,
+      "cipher": 63
+    },
+    {
+      "key": 639,
+      "plain": 251,
+      "cipher": 102
+    },
+    {
+      "key": 767,
+      "plain": 250,
+      "cipher": 19
+    },
+    {
+      "key": 895,
+      "plain": 249,
+      "cipher": 23
+    }
+  ],
+  "elapsed_seconds": 2.7740766999922926,
+  "platform_scope": "同一主机上的 Python 整数实现与 JavaScript 位数组实现；真实跨组测试仍需人工完成"
+}
